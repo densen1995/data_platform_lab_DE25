@@ -7,8 +7,8 @@
 **Basically we will:**
 - Read the CSV
 - Clean it
-- Reject impossible values
-- Flag suspicious values
+- Reject impossible values and validate dataset(df_valid).
+- Flag suspicious values(but can be usable)
 - Generate analytics outputs/files
 
 
