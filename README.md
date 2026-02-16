@@ -10,11 +10,11 @@
 - Clean it
 - Reject impossible values and validate dataset(df_valid).
 - Flag suspicious values(but can be usable)
-- Generate analytics outputs/files
+- Generate analytics outputs/files converted to csv like; analytics_summary.csv(which aggregates average, median, quantity of products etc), price_analysis, and rejected_products.csv
 
 
 **Get Started**
-- Ladda ner products.json: source= (Laboration 1 - Learnpoint (sti))
+- Ladda ner products.csv: source= (Laboration 1 - Learnpoint (sti))
 - Läs in Filen med Pandas read_from() metod (lägg in den i projektet först)
 - Transformera innehållet så att det är användbart 
 
