@@ -2,7 +2,8 @@
 **Using Pandas to Extract, Transform and load data. (ETL)**
 
 - Installera och aktivera en virtual enviroment.
-- Installera packages(t.ex pandas , ipykernel) och Importera bibliotek somm behövs t.ex, pandas. Note:(ipykernel endast för jupiter notebook anvädning)
+- Installera packages/dependencies(t.ex pandas , ipykernel) och Importera bibliotek somm behövs t.ex, pandas. Note:(ipykernel endast för jupiter notebook anvädning)
+- Installera och importera matplotlib for plotting (*bonus*).
 
 **Basically we will:**
 - Read the CSV
