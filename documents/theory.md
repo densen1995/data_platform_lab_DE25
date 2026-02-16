@@ -23,3 +23,10 @@
 - Filtering in the database based on analytical/business requirements using different methods/tools , example Pandas, SQL 
 - Might involve getting/extracting information required by stakeholders by creating more tables in a database with even new columns (alias)
 - Example: agrregation; average, median, ranking, total, queries, exceptions etc,  using Pandas or can better be done when data is transformed and stored in a database.
+
+**Ingestion into a database (PostgreSQL) using PGAdmin**
+
+- Querying the database (table analytics_summary)after creating and importing the csv file.
+- Generating a graphical insight of the table through a bar chart in pgAdmin:
+
+<image src= "analytics_summary.png", width=500>
