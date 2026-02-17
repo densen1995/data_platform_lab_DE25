@@ -1,0 +1,22 @@
+**Get Started**
+- Ladda ner products.csv: source= (Laboration 1 - Learnpoint (sti))
+- Läs in Filen med Pandas read_from() metod (lägg in den i projektet först)
+- Transformera innehållet så att det är användbart 
+
+**Flagga möjliga problem såsom:**
+- Saknad av ‘currency’
+- produkter med extremt höga priser (kan vara ‘luxury products’)
+- Kostar 0 (var den gratis? Eller problem?)
+- Avvisa omöjliga värden i kolumner
+- När du är klar genererar du följande filer med följande kolumner:
+**analytics_summary.csv**
+- snittpris
+- medianpris
+- antal produkter
+- antal produkter med saknat pris 
+**price_analysis.csv (bonus)**
+
+- top 10 dyraste produkter
+- top 10 produkter med mest avvikande pris 
+
+- Inkludera alla produkter som är omöjliga
