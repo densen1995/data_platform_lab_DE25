@@ -1,0 +1,11 @@
+id,name,price,price_deviation
+SKU-1039,coat,999999.0,6.78
+SKU-1014,t-shirt,0.0,0.16
+SKU-1013,cap,75.0,0.16
+SKU-1053,cap,85.0,0.16
+SKU-1009,socks,99.0,0.16
+SKU-1048,flipflops,100.0,0.16
+SKU-1008,gloves,120.0,0.16
+SKU-1042,earmuffs,130.0,0.16
+SKU-1033,tie,150.0,0.15
+SKU-1041,beanie,180.0,0.15
