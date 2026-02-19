@@ -8,11 +8,7 @@
     - Flag suspicious values(but can be usable)
 - Generate analytics outputs/files exported as csv files like; analytics_summary.csv(which aggregates average, median, quantity of products etc), price_analysis(using Z-score), and rejected_products.csv
 
-**Note** 
-- price_analysis.csv is sperated into two different files because;-
-- It is easier to interpret
-- Avoid confusing ranking logic
-- Avoids duplicates and makes the dataset cleaner.
+
 
 **Summary**
 - Raw -> Reject -> Valid -> Flag -> Analytics
