@@ -1,8 +1,8 @@
-id,name,price,currency,created_at
-,jacket,-200.0,SEK,
-SKU-1005,,,,
-SKU-1006,designer coat,,SEK,2024-05-01
-,hat,,SEK,
-SKU-1015,hoodie,-50.0,SEK,2024-04-15
-SKU-1043,cardigan,,SEK,2024-11-15
-SKU-1052,coat,,SEK,2025-01-10
+id,name,price,currency,created_at,id_missing,price_missing,negative_price,reason
+,jacket,-200.0,SEK,,True,False,True,Missing ID; Negative price; 
+SKU-1005,,,,,False,True,False,Missing price; 
+SKU-1006,designer coat,,SEK,2024-05-01,False,True,False,Missing price; 
+,hat,0.0,SEK,,True,False,False,Missing ID; 
+SKU-1015,hoodie,-50.0,SEK,2024-04-15,False,False,True,Negative price; 
+SKU-1043,cardigan,,SEK,2024-11-15,False,True,False,Missing price; 
+SKU-1052,coat,,SEK,2025-01-10,False,True,False,Missing price; 
